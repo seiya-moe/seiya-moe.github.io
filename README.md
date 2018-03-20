@@ -1,0 +1,1 @@
+[seiya.moe](https://seiya.moe) source
