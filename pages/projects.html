@@ -1,0 +1,42 @@
+---
+layout:  post
+type:    wide
+css:     "/assets/css/projects.css"
+
+title:   "Проекты"
+date:    2017-09-16 00:00:00 +0000
+
+permalink: /projects
+---
+
+<table id="projects">
+	<col class="col1"/>
+	<col class="col2"/>
+	<col class="col3"/>
+	<col class="col4"/>
+	<col class="col5"/>
+	<thead>
+		<tr>
+			<th>Название</th>
+			<th>Сезон</th>
+			<th>Серий</th>
+			<th>Участники / Команда</th>
+			<th>DL</th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr><td></td><td></td><td></td><td></td><td></td></tr>
+		{% assign is_topic = 1 %}
+		<tr><th>ongoing</th><td></td><td></td><td></td><td></td></tr>
+		{% for proj in site.data.projects.ongoing %}{% include projects.html %}{% endfor %}
+		<tr><th>stalled</th><td></td><td></td><td></td><td></td></tr>
+		{% for proj in site.data.projects.stalled %}{% include projects.html %}{% endfor %}
+		{% assign is_topic = 0 %}
+		<tr><th>planned</th><td></td><td></td><td></td><td></td></tr>
+		{% for proj in site.data.projects.planned %}{% include projects.html %}{% endfor %}
+		<tr><th>completed</th><td></td><td></td><td></td><td></td></tr>
+		{% for proj in site.data.projects.completed %}{% include projects.html %}{% endfor %}
+		<tr><th>dropped</th><td></td><td></td><td></td><td></td></tr>
+		{% for proj in site.data.projects.dropped %}{% include projects.html %}{% endfor %}
+	</tbody>
+</table>

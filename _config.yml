@@ -1,0 +1,13 @@
+# Site settings
+title: "Seiya"
+baseurl: "/"
+url: "seiya.moe"
+
+exclude:
+  - CNAME
+  - LICENSE
+  - README.md
+
+# Build settings
+markdown: kramdown
+permalink: /p/:year-:month-:day-:title:output_ext

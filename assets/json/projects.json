@@ -1,0 +1,111 @@
+{
+	"$schema": "http://json-schema.org/draft-04/schema#",
+	"type": "array",
+	"format": "tabs",
+	"items": {
+		"type": "object",
+		"headerTemplate": "({{i}}) {{self.title}}",
+		"properties": {
+			"title": {
+				"type": "string",
+				"default": "",
+				"required": true
+			},
+			"wa_id":{
+				"type": "integer",
+				"default": 0,
+				"required": true
+			},
+			"anime_type": {
+				"type": "string",
+				"enum": [
+					"tv_series",
+					"movie",
+					"ova",
+					"web",
+					"tv_special",
+					"music_video",
+					"other",
+					"none"
+				],
+				"default": "none",
+				"required": true
+			},
+			"season": {
+				"type": "string",
+				"default": "",
+				"required": true
+			},
+			"episodes": {
+				"type": "string",
+				"default": "",
+				"required": true
+			},
+			"color": {
+				"type": "string",
+				"enum": [
+					"green",
+					"yellow",
+					"red",
+					"none"
+				],
+				"default": "none",
+				"required": true
+			},
+			"team": {
+				"type": "object",
+				"format": "grid",
+				"required": true,
+				"properties": {
+					"title": {
+						"type": "string",
+						"default": "",
+						"required": true
+					},
+					"staff": {
+						"type": "array",
+						"format": "table",
+						"required": true,
+						"options": {
+							"collapsed": true
+						},
+						"items": {
+							"type": "object",
+							"properties": {
+								"role": {
+									"type": "string",
+									"required": true,
+									"enum": [
+										"TL",
+										"ED",
+										"TLC",
+										"QC",
+										"TS",
+										"TC",
+										"LTL"
+									],
+									"default": "TL"
+								},
+								"nickname": {
+									"type": "string",
+									"required": true,
+									"default": ""
+								}
+							}
+						}
+					}
+				}
+			},
+			"topic_id":{
+				"type": "integer",
+				"default": 0,
+				"required": true
+			},
+			"fs_id":{
+				"type": "integer",
+				"default": 0,
+				"required": true
+			}
+		}
+	}
+}

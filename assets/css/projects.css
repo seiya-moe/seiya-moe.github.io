@@ -1,0 +1,115 @@
+#projects{
+	margin: auto;
+	width: 100%;
+	border-collapse: collapse;
+	table-layout: fixed;
+}
+
+#projects{
+	font-size:11px;
+	line-height:15px;
+	text-align:center;
+}
+#projects th{
+	color:#000;
+	background-color:#f9cb9c;
+	text-transform:uppercase;
+	text-align:center;
+}
+#projects th, #projects td{
+	vertical-align: middle;
+}
+
+#projects .col2{width:120px;}
+#projects .col3{width:100px;}
+#projects .col4{width:220px;}
+#projects .col5{width:25px;}
+
+#projects td{border-right:1px solid #E8E8E8;}
+#projects tr{border-bottom:1px solid #E8E8E8;}
+
+#projects td:last-child{border-right-width:0;}
+#projects tbody tr:last-child{border-bottom-width:0;}
+
+#projects th,#projects td{padding:1px 5px;}
+
+#projects .title{text-align:left;}
+#projects .title a{color:#3F3F3F !important;}
+#projects .title span:hover{text-decoration:underline;}
+#projects td{height:15px;}
+#projects td.dl{text-align:left;}
+
+.atype{
+	float:right;
+	width: 15px;
+	height: 15px;
+	background-image: url('https://i.imgur.com/QMW3QPN.gif');
+}
+.atype_movie{background-position:-15px center;}
+.atype_ova{background-position:-30px center;}
+.atype_web{background-position:-45px center;}
+.atype_tv_special{background-position:-60px center;}
+.atype_music_video{background-position:-75px center;}
+.atype_other{background-position:-90px center;}
+.atype_none{background-image:none;}
+
+.rel_green{background-color: #7cff7a;}
+.rel_yellow{background-color: yellow;}
+.rel_red{background-color: #f78c8c;}
+
+.cur_pointer{
+	cursor: pointer;
+}
+.fteam{
+	z-index: 101;
+	display: none;
+	padding: 10px;
+	width: 200px;
+	margin-left: -7px;
+	margin-top: 3px;
+	text-align: left;
+	position: absolute;
+}
+.pteam:hover{
+	text-decoration:underline;
+}
+.pteam:hover + .fteam{
+	display: block;
+	position: absolute;
+	border: 1px solid #DCA;
+	border-radius: 5px;
+	box-shadow: 0px 0px 4px #222;
+	color: white;
+	background: black;
+}
+.fteam .member{
+	display: block;
+}
+
+.get{
+	vertical-align:top;
+	height: auto;
+	width: 16px;
+	display:block;
+}
+.get:before,.get:after{
+	font-family: FontAwesome, 'PT Sans', sans-serif;
+}
+.get:before {
+	content: "\f063";
+	color: #30ba30;
+	font-size: 10px;
+	padding-top: 5px;
+	padding-left: 6px;
+	position: absolute;
+	text-shadow: 1px 1px 0 #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+
+.get:after {
+	content: "\f016";
+	color: #105289;
+	font-size: 12px;
+}
+.get:hover::after{
+	color: #a00 !important;
+}

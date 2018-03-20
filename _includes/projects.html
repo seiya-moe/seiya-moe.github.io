@@ -1,0 +1,31 @@
+<tr>
+	<td class="title">
+		{% if proj.wa_id > 0 %}<a href="http://www.world-art.ru/animation/animation.php?id={{ proj.wa_id }}" target="_blank">{% endif%}
+		<span class="cur_pointer">{{ proj.title }}</span>
+		{% if proj.wa_id > 0 %}</a>{% endif%}
+		<div class="atype atype_{{ proj.anime_type }}"></div>
+	</td>
+	<td>
+		<span>{{ proj.season }}</span>
+	</td>
+	<td class="rel_{{ proj.color }}">
+		<span>{{ proj.episodes }}</span>
+	</td>
+	<td>
+		<span class="pteam cur_pointer">
+			{% if proj.topic_id > 0 and is_topic > 0 %}<a href="http://fansubs.ru/forum/viewtopic.php?t={{ proj.topic_id }}" target="_blank">{% endif %}
+			<span>{{ proj.team.title }}</span>
+			{% if proj.topic_id > 0 and is_topic > 0 %}</a>{% endif %}
+		</span>
+		{% if proj.team.staff.size > 0 %}
+			<span class="fteam">
+				{% for staff in proj.team.staff %}
+					<span class="member"><b>{{ staff.role }}:</b> {{ staff.nickname }}</span>
+				{% endfor %}
+			</span>
+		{% endif %}
+	</td>
+	<td class="dl">
+		{% if proj.fs_id > 0 %}<a class="get" href="http://fansubs.ru/base.php?srt={{ proj.fs_id }}"><span></span></a>{% endif %}
+	</td>
+</tr>

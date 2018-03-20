@@ -1,0 +1,9 @@
+<nav>
+	<div id="{% if page.type == "narrow" %}avatarBig{% else if page.type != "narrow" %}avatarTop{% endif %}" class="avatar"></div>
+	<div id="navLinks">
+		<a href="/"{% if page.url == "/" %} class="active"{% endif %}>твиттер</a>
+		<a href="/projects"{% if page.url == "/projects" %} class="active"{% endif %}>проекты</a>
+		<a href="/contacts"{% if page.url == "/contacts" %} class="active"{% endif %}>контакты</a>
+		<a href="/donate"{% if page.url == "/donate" %} class="active"{% endif %}>донат</a>
+	</div>
+</nav>

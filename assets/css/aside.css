@@ -1,0 +1,47 @@
+aside{
+	padding: 0 15px;
+	float: left;
+	width: 250px;
+	margin-top: 90px;
+}
+aside .padb10{
+	padding-bottom: 10px;
+}
+aside .user{
+	font-size: 24px;
+	line-height: 28px;
+	font-weight: 700;
+}
+aside .baseurl a:hover{
+	text-decoration: none;
+}
+aside .baseurl a:hover span{
+	text-decoration: underline;
+}
+aside li{
+	list-style-type: none;
+}
+
+aside ul li span{
+	background-image: url("https://i.imgur.com/BOAy7IK.png");
+	background-repeat: no-repeat;
+	vertical-align: top;
+	display: inline-block;
+	width: 16px;
+	height: 16px;
+	margin: 2px;
+}
+aside ul li a{
+	margin-left: 2px;
+	color: #390a59;
+}
+
+aside .twitter span{
+	background-position: 0 center;
+}
+aside .vkcom span{
+	background-position: -16px center;
+}
+aside .aboutme span{
+	background-position: -32px center;
+}

@@ -1,0 +1,20 @@
+#avatarBig, #avatarTop{
+	margin-left: 35px;
+	margin-top: -75px;
+	position: absolute;
+	width: 200px;
+	height: 200px;
+	border: 5px solid #fff;
+	border-radius: 5px;
+	background-color: #fff;
+}
+#avatarTop{
+	margin-top: -105px;
+	width: 150px;
+	height: 150px;
+}
+.avatar{
+	/* https://twitter.com/seiya_loveless/profile_image?size=original */
+	background: url("https://i.imgur.com/EtFgkqD.jpg") no-repeat;
+	background-size: cover;
+}

@@ -1,0 +1,18 @@
+---
+layout: default
+---
+<article>
+	<header>
+		<h1>{{ page.title }}</h1>
+	</header>
+	<div class="content">
+		{{ content }}
+	</div>
+	<address>
+		<a href="{{ page.url }}"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date_to_string }}</time></a>
+		{% if page.author %}
+			<span> • </span>
+			<span>{% if page.twitter %}<a rel="author" href="https://twitter.com/{{ page.twitter }}" target="_blank">{% endif %}{{ page.author }}{% if page.twitter %}</a>{% endif %}</span>
+		{% endif %}
+	</address>
+</article>

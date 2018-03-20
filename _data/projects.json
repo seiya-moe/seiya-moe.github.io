@@ -1,0 +1,1671 @@
+﻿{
+	"ongoing": [
+		{
+			"title": "Yuuki Yuuna S2",
+			"wa_id": 8998,
+			"anime_type": "tv_series",
+			"season": "2017 осень",
+			"episodes": "4/12",
+			"color": "green",
+			"team": {
+				"title": "Akashi + Apostol",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Apostol"
+					}
+				]
+			},
+			"topic_id": 17725,
+			"fs_id": 11664
+		},
+		{
+			"title": "Blade Runner 2022",
+			"wa_id": 9400,
+			"anime_type": "web",
+			"season": "2017 осень",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "BBNG",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "AleX_MytH"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya"
+					},
+					{
+						"role": "ED",
+						"nickname": "Jarly"
+					}
+				]
+			},
+			"topic_id": 17707,
+			"fs_id": 11592
+		},
+		{
+			"title": "New Game!!",
+			"wa_id": 9226,
+			"anime_type": "tv_series",
+			"season": "2017 лето",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Саша, Сэйя и Суро",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Саша"
+					},
+					{
+						"role": "ED",
+						"nickname": "Сэйя"
+					},
+					{
+						"role": "TS",
+						"nickname": "Суро"
+					}
+				]
+			},
+			"topic_id": 17650,
+			"fs_id": 11556
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Cardcaptor Sakura Clear Card Chapter - Prologue",
+			"wa_id": 9223,
+			"anime_type": "ova",
+			"season": "2017 лето",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "Саша, Сэйя и Суро",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Саша"
+					},
+					{
+						"role": "ED",
+						"nickname": "Сэйя"
+					},
+					{
+						"role": "TS",
+						"nickname": "Суро"
+					}
+				]
+			},
+			"topic_id": 17704,
+			"fs_id": 11595
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		}
+	],
+	"stalled": [
+		{
+			"title": "Digimon Adventure tri. 1: Saikai",
+			"wa_id": 6457,
+			"anime_type": "movie",
+			"season": "2015 осень",
+			"episodes": "0/1 (2/4)",
+			"color": "red",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10387
+		},
+		{
+			"title": "Digimon Adventure tri. 2: Ketsui",
+			"wa_id": 6457,
+			"anime_type": "movie",
+			"season": "2016 зима",
+			"episodes": "0/1 (0/4)",
+			"color": "red",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Gangsta.",
+			"wa_id": 2587,
+			"anime_type": "tv_series",
+			"season": "2015 лето",
+			"episodes": "9/12",
+			"color": "red",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9999
+		},
+		{
+			"title": "Nihon Animator Mihon'ichi",
+			"wa_id": 5503,
+			"anime_type": "web",
+			"season": "2014 осень",
+			"episodes": "1-2, 4, 6, 11-12, 21, 25, 27 /35",
+			"color": "red",
+			"team": {
+				"title": "Timecraft + Ambiente + Shift",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Алекс Миф, Evafan Satin"
+					},
+					{
+						"role": "ED",
+						"nickname": "BO3DYX"
+					},
+					{
+						"role": "TS",
+						"nickname": "BO3DYX"
+					},
+					{
+						"role": "TC",
+						"nickname": "Сэйя"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9550
+		},
+		{
+			"title": "Short Peace",
+			"wa_id": 1261,
+			"anime_type": "movie",
+			"season": "2013 осень",
+			"episodes": "2/4 + OP1/1",
+			"color": "red",
+			"team": {
+				"title": "Timecraft + Seiya",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Алекс Миф"
+					},
+					{
+						"role": "ED",
+						"nickname": "Cэйя"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 8911
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Bishoujo Senshi Sailor Moon Crystal: Death Busters-hen",
+			"wa_id": 8495,
+			"anime_type": "tv_series",
+			"season": "2016 весна",
+			"episodes": "1/13",
+			"color": "red",
+			"team": {
+				"title": "SABS",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Adelheid"
+					},
+					{
+						"role": "QC",
+						"nickname": "atom4ik"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10817
+		},
+		{
+			"title": "Flying Witch",
+			"wa_id": 8394,
+			"anime_type": "tv_series",
+			"season": "2016 весна",
+			"episodes": "1/12",
+			"color": "red",
+			"team": {
+				"title": "Timecraft + Adelheid",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Adelheid"
+					},
+					{
+						"role": "TLC",
+						"nickname": "Jill"
+					},
+					{
+						"role": "QC",
+						"nickname": "Атом"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10708
+		},
+		{
+			"title": "Flying Witch Petit",
+			"wa_id": 8394,
+			"anime_type": "tv_special",
+			"season": "BD/DVD/Web",
+			"episodes": "1/9",
+			"color": "red",
+			"team": {
+				"title": "Timecraft + Adelheid",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Adelheid"
+					},
+					{
+						"role": "TLC",
+						"nickname": "Jill"
+					},
+					{
+						"role": "QC",
+						"nickname": "Атом"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10708
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Fate/Kaleid Liner Prisma Illya Zwei!: Mahou Shoujo in Onsen Ryokou",
+			"wa_id": 3764,
+			"anime_type": "ova",
+			"season": "2015 лето",
+			"episodes": "0/1",
+			"color": "red",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Fate/Kaleid Liner Prisma Illya Zwei Herz! Specials",
+			"wa_id": 3760,
+			"anime_type": "tv_special",
+			"season": "BD/DVD",
+			"episodes": "0/5",
+			"color": "red",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Nisekoi: OVA",
+			"wa_id": 8457,
+			"anime_type": "ova",
+			"season": "2016 зима",
+			"episodes": "0/2",
+			"color": "red",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Yuru Yuri Nachuyachumi!",
+			"wa_id": 2264,
+			"anime_type": "ova",
+			"season": "2014 осень",
+			"episodes": "0/1",
+			"color": "red",
+			"team": {
+				"title": "Timecraft + GMC",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Yuru Yuri Nachuyachumi!+",
+			"wa_id": 8367,
+			"anime_type": "tv_special",
+			"season": "2015 лето",
+			"episodes": "0/2",
+			"color": "red",
+			"team": {
+				"title": "Timecraft + GMC",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Sekkou Boys",
+			"wa_id": 8440,
+			"anime_type": "tv_series",
+			"season": "2016 зима",
+			"episodes": "5/12",
+			"color": "yellow",
+			"team": {
+				"title": "КИЛД",
+				"staff": []
+			},
+			"topic_id": 17053,
+			"fs_id": 10477
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Gabriel Dropout",
+			"wa_id": 8873,
+			"anime_type": "tv_series",
+			"season": "2017 зима",
+			"episodes": "2/12",
+			"color": "red",
+			"team": {
+				"title": "Akashi",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Kurohibi"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya"
+					},
+					{
+						"role": "QC",
+						"nickname": "Uker"
+					},
+					{
+						"role": "TS",
+						"nickname": "Surokune"
+					}
+				]
+			},
+			"topic_id": 17517,
+			"fs_id": 11326
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "Mahou Shoujo Nante Mou Ii Desu kara. S2",
+			"wa_id": 8866,
+			"anime_type": "tv_series",
+			"season": "2016 осень",
+			"episodes": "1/12",
+			"color": "yellow",
+			"team": {
+				"title": "Seiya + Adelheid",
+				"staff": []
+			},
+			"topic_id": 17156,
+			"fs_id": 11119
+		},
+		{
+			"title": "Onihei",
+			"wa_id": 8905,
+			"anime_type": "tv_series",
+			"season": "2017 зима",
+			"episodes": "1/13",
+			"color": "red",
+			"team": {
+				"title": "BBNG (ex. Timecraft)",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "AleX_MytH"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 11357
+		},
+		{
+			"title": "Pokemon Generations",
+			"wa_id": 9060,
+			"anime_type": "web",
+			"season": "2016 лето",
+			"episodes": "10/18",
+			"color": "yellow",
+			"team": {
+				"title": "Саша + Сэйя",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 11100
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		}
+	],
+	"planned": [
+		{
+			"title": "Shoujo-tachi wa Kouya o Mezasu: Anime Edition",
+			"wa_id": 8524,
+			"anime_type": "ova",
+			"season": "2016 осень",
+			"episodes": "0/1",
+			"color": "green",
+			"team": {
+				"title": "Shift + Seiya",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Саня Литвяк"
+					},
+					{
+						"role": "ED",
+						"nickname": "Cэйя"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "<s>дропнуть фансаб</s>",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		}
+	],
+	"completed": [
+		{
+			"title": "91 Days",
+			"wa_id": 1206,
+			"anime_type": "tv_series",
+			"season": "2016 лето",
+			"episodes": "12/12<br/>+ 2/2 (7.5, 13)",
+			"color": "green",
+			"team": {
+				"title": "Akashi + BBNG + Shift",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Zottig"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya, Endill"
+					},
+					{
+						"role": "TLC",
+						"nickname": "hoshizora (13)"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Veles"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 11014
+		},
+		{
+			"title": "Angel Beats! Special: Hell's Kitchen",
+			"wa_id": 7634,
+			"anime_type": "tv_special",
+			"season": "2015 весна",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "Seiya + aXtr25",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 9996
+		},
+		{
+			"title": "Binan Koukou Chikyuu Bouei Bu Love!",
+			"wa_id": 3868,
+			"anime_type": "tv_series",
+			"season": "2015 зима",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Розовый Вомбат и Ко",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Bel-chan"
+					},
+					{
+						"role": "TS",
+						"nickname": "DeadMouse"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9611
+		},
+		{
+			"title": "Bishoujo Senshi Sailor Moon Crystal",
+			"wa_id": 1066,
+			"anime_type": "web",
+			"season": "2014 лето",
+			"episodes": "26/26",
+			"color": "green",
+			"team": {
+				"title": "SABS",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Adelheid"
+					},
+					{
+						"role": "TL",
+						"nickname": "Bel-chan"
+					},
+					{
+						"role": "TS",
+						"nickname": "Surokune"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Zool"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9097
+		},
+		{
+			"title": "Brave Witches",
+			"wa_id": 8712,
+			"anime_type": "tv_series",
+			"season": "2016 осень",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Саша + Сэйя",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 11169
+		},
+		{
+			"title": "Fate/Kaleid Liner Prisma Illya Drei!!",
+			"wa_id": 8497,
+			"anime_type": "tv_series",
+			"season": "2016 осень",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10991
+		},
+		{
+			"title": "Fate/Kaleid Liner Prisma Illya Zwei Herz!",
+			"wa_id": 3760,
+			"anime_type": "tv_series",
+			"season": "2015 лето",
+			"episodes": "10/10",
+			"color": "green",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Schum"
+					},
+					{
+						"role": "TLC",
+						"nickname": "Tassadar"
+					},
+					{
+						"role": "QC",
+						"nickname": "Nerevar"
+					},
+					{
+						"role": "TS",
+						"nickname": "Schum"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10143
+		},
+		{
+			"title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri",
+			"wa_id": 8173,
+			"anime_type": "tv_series",
+			"season": "2015 лето",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Zool + Seiya",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 9784
+		},
+		{
+			"title": "Gate: Jieitai Kanochi nite, Kaku Tatakaeri (2016)",
+			"wa_id": 8472,
+			"anime_type": "tv_series",
+			"season": "2016 зима",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Zool + Seiya",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10490
+		},
+		{
+			"title": "Glass no Hana to Kowasu Sekai",
+			"wa_id": 3752,
+			"anime_type": "movie",
+			"season": "2015 осень",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "Timecraft + Саня Литвяк",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					},
+					{
+						"role": "QC",
+						"nickname": "Саня Литвяк"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10580
+		},
+		{
+			"title": "Gravity Daze The Animation: Ouverture",
+			"wa_id": 9076,
+			"anime_type": "web",
+			"season": "2017 зима",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "AleX_MytH"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 11243
+		},
+		{
+			"title": "Haruchika: Haruta to Chika wa Seishun Suru",
+			"wa_id": 8354,
+			"anime_type": "tv_series",
+			"season": "2016 зима",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "BBNG (ex. Timecraft)",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					}
+				]
+			},
+			"topic_id": 17100,
+			"fs_id": 10464
+		},
+		{
+			"title": "High School Fleet",
+			"wa_id": 8452,
+			"anime_type": "tv_series",
+			"season": "2016 весна",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Nachtwandler"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya Loveless, Buka63"
+					},
+					{
+						"role": "TS",
+						"nickname": "Surokune"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Nachtwandler"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10807
+		},
+		{
+			"title": "Isuca",
+			"wa_id": 2345,
+			"anime_type": "tv_series",
+			"season": "2015 зима",
+			"episodes": "10/10",
+			"color": "green",
+			"team": {
+				"title": "КИЛД",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 9705
+		},
+		{
+			"title": "Isuca OVA",
+			"wa_id": 6408,
+			"anime_type": "ova",
+			"season": "2015 лето",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "КИЛД",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10383
+		},
+		{
+			"title": "Kimi no Na wa.",
+			"wa_id": 8593,
+			"anime_type": "movie",
+			"season": "2016 лето",
+			"episodes": "BD 1/1",
+			"color": "green",
+			"team": {
+				"title": "BBNG + Саша + Endill",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Алекс Миф"
+					},
+					{
+						"role": "ED",
+						"nickname": "Endill (BD)"
+					},
+					{
+						"role": "TLC",
+						"nickname": "Саша (BD)"
+					},
+					{
+						"role": "QC",
+						"nickname": "Seiya"
+					}
+				]
+			},
+			"topic_id": 17682,
+			"fs_id": 11083
+		},
+		{
+			"title": "Kokoro ga Sakebitagatterunda.",
+			"wa_id": 6380,
+			"anime_type": "movie",
+			"season": "2015 лето",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "Timecraft + Endill",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					},
+					{
+						"role": "QC",
+						"nickname": "Endill"
+					},
+					{
+						"role": "TC",
+						"nickname": "Endill"
+					},
+					{
+						"role": "TS",
+						"nickname": "Surokune"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Nachtwandler"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10860
+		},
+		{
+			"title": "Kono Subarashii Sekai ni Shukufuku o! OVA",
+			"wa_id": 8638,
+			"anime_type": "ova",
+			"season": "2016 осень",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "КИЛД",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10912
+		},
+		{
+			"title": "Kuusen Madoushi Kouhosei no Kyoukan",
+			"wa_id": 5567,
+			"anime_type": "tv_series",
+			"season": "2015 лето",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Nachtwandler"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "TS",
+						"nickname": "Nachtwandler"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10081
+		},
+		{
+			"title": "Kuusen Madoushi Kouhosei no Kyoukan OVA",
+			"wa_id": 8418,
+			"anime_type": "ova",
+			"season": "2016 зима",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "Nachtwandler + Seiya",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 11061
+		},
+		{
+			"title": "Mahou Shoujo Ikusei Keikaku",
+			"wa_id": 8727,
+			"anime_type": "tv_series",
+			"season": "2016 осень",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Атом"
+					},
+					{
+						"role": "ED",
+						"nickname": "Сэйя"
+					},
+					{
+						"role": "TS",
+						"nickname": "Атом"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Атом"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 11106
+		},
+		{
+			"title": "Mahou Shoujo Nante Mou Ii Desu kara.",
+			"wa_id": 8518,
+			"anime_type": "tv_series",
+			"season": "2016 зима",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Seiya + Adelheid",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10523
+		},
+		{
+			"title": "Miss Monochrome The Animation 3",
+			"wa_id": 8458,
+			"anime_type": "tv_series",
+			"season": "2015 осень",
+			"episodes": "13/13",
+			"color": "green",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Elven_Tankman"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya Loveless"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10222
+		},
+		{
+			"title": "New Game!",
+			"wa_id": 8529,
+			"anime_type": "tv_series",
+			"season": "2016 лето",
+			"episodes": "12/12 + 1/1",
+			"color": "green",
+			"team": {
+				"title": "Саша + Сэйя + Суро",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10969
+		},
+		{
+			"title": "Nisekoi OVA",
+			"wa_id": 2318,
+			"anime_type": "ova",
+			"season": "2014 осень",
+			"episodes": "3/3",
+			"color": "green",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Schum"
+					},
+					{
+						"role": "QC",
+						"nickname": "Nerevar"
+					},
+					{
+						"role": "TS",
+						"nickname": "Schum"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9970
+		},
+		{
+			"title": "Nisekoi:",
+			"wa_id": 3906,
+			"anime_type": "tv_series",
+			"season": "2015 весна",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Seiya + GMC",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Schum"
+					},
+					{
+						"role": "QC",
+						"nickname": "Nerevar"
+					},
+					{
+						"role": "TS",
+						"nickname": "Schum"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9872
+		},
+		{
+			"title": "Punch Line",
+			"wa_id": 6505,
+			"anime_type": "tv_series",
+			"season": "2015 весна",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Seiya + Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					},
+					{
+						"role": "TS",
+						"nickname": "Surokune"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9801
+		},
+		{
+			"title": "Sakurako-san no Ashimoto ni wa Shitai ga Umatte Iru",
+			"wa_id": 8340,
+			"anime_type": "tv_series",
+			"season": "2015 осень",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс Миф"
+					},
+					{
+						"role": "ED",
+						"nickname": "atom4ik"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10270
+		},
+		{
+			"title": "Selector Destructed WIXOSS",
+			"wa_id": 8387,
+			"anime_type": "movie",
+			"season": "2016 зима",
+			"episodes": "1/1",
+			"color": "green",
+			"team": {
+				"title": "BBNG + Re:AniPanic",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Сэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Алекс"
+					},
+					{
+						"role": "TS",
+						"nickname": "Маус"
+					}
+				]
+			},
+			"topic_id": 17680,
+			"fs_id": 11685
+		},
+		{
+			"title": "Selector Spread WIXOSS",
+			"wa_id": 2320,
+			"anime_type": "tv_series",
+			"season": "2014 осень",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Seiya + AniPanic",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "TS",
+						"nickname": "DeadMouse"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9407
+		},
+		{
+			"title": "Shounen Maid",
+			"wa_id": 8584,
+			"anime_type": "tv_series",
+			"season": "2016 весна",
+			"episodes": "12/12 + 1/1",
+			"color": "green",
+			"team": {
+				"title": "Shift + Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Саша Ушкина"
+					},
+					{
+						"role": "ED",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "QC",
+						"nickname": "Endill"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10769
+		},
+		{
+			"title": "Shoujo-tachi wa Kouya o Mezasu",
+			"wa_id": 8523,
+			"anime_type": "tv_series",
+			"season": "2016 зима",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "Shift + Seiya",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Саня Литвяк"
+					},
+					{
+						"role": "ED",
+						"nickname": "Zelretch (1-6)"
+					},
+					{
+						"role": "ED",
+						"nickname": "Cэйя (7-12)"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10461
+		},
+		{
+			"title": "Triage X",
+			"wa_id": 3647,
+			"anime_type": "tv_series",
+			"season": "2015 весна",
+			"episodes": "10/10",
+			"color": "green",
+			"team": {
+				"title": "КИЛД",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 9854
+		},
+		{
+			"title": "Wake Up, Girls!",
+			"wa_id": 1688,
+			"anime_type": "tv_series",
+			"season": "2014 зима",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "AniSLowTime",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Сэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Buka63"
+					},
+					{
+						"role": "TS",
+						"nickname": "DeadMouse"
+					},
+					{
+						"role": "TS",
+						"nickname": "Buka63"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Veles"
+					},
+					{
+						"role": "LTL",
+						"nickname": "Buka63"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9902
+		},
+		{
+			"title": "Wonder Momo",
+			"wa_id": 2197,
+			"anime_type": "web",
+			"season": "2014 зима",
+			"episodes": "5/5",
+			"color": "green",
+			"team": {
+				"title": "Seiya + Adelheid",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 8817
+		},
+		{
+			"title": "Www.Working!!",
+			"wa_id": 8755,
+			"anime_type": "tv_series",
+			"season": "2016 осень",
+			"episodes": "13/13",
+			"color": "green",
+			"team": {
+				"title": "Саша + Сэйя",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 11163
+		},
+		{
+			"title": "Yuru Yuri San Hai!",
+			"wa_id": 8278,
+			"anime_type": "tv_series",
+			"season": "2015 осень",
+			"episodes": "12/12",
+			"color": "green",
+			"team": {
+				"title": "GMC + Timecraft",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Seiya Loveless"
+					},
+					{
+						"role": "ED",
+						"nickname": "Schum"
+					},
+					{
+						"role": "TLC",
+						"nickname": "Tassadar"
+					},
+					{
+						"role": "QC",
+						"nickname": "Nerevar"
+					},
+					{
+						"role": "TS",
+						"nickname": "Surokune"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10295
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		}
+	],
+	"dropped": [
+		{
+			"title": "Binan Koukou Chikyuu Bouei Bu Love! Love!",
+			"wa_id": 8705,
+			"anime_type": "tv_series",
+			"season": "2016 лето",
+			"episodes": "1/12",
+			"color": "red",
+			"team": {
+				"title": "Розовый Вомбат и Ко",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Сэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Bel-chan"
+					},
+					{
+						"role": "TS",
+						"nickname": "DeadMouse"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10981
+		},
+		{
+			"title": "Gochuumon wa Usagi Desuka?",
+			"wa_id": 2037,
+			"anime_type": "tv_series",
+			"season": "2014 весна",
+			"episodes": "2/12",
+			"color": "red",
+			"team": {
+				"title": "Seiya + Adelheid",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 8999
+		},
+		{
+			"title": "Heavy Object",
+			"wa_id": 8283,
+			"anime_type": "tv_series",
+			"season": "2015 осень",
+			"episodes": "2/24",
+			"color": "red",
+			"team": {
+				"title": "Саня Литвяк + Seiya + Shift",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Саня Литвяк"
+					},
+					{
+						"role": "ED",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "QC",
+						"nickname": "Evafan"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 10226
+		},
+		{
+			"title": "Kanon (2006)",
+			"wa_id": 5832,
+			"anime_type": "tv_series",
+			"season": "2016 осень",
+			"episodes": "1/24",
+			"color": "red",
+			"team": {
+				"title": "Саня Литвяк + Seiya",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 10310
+		},
+		{
+			"title": "Majimoji Rurumo",
+			"wa_id": 2279,
+			"anime_type": "tv_series",
+			"season": "2014 лето",
+			"episodes": "3/12\t",
+			"color": "red",
+			"team": {
+				"title": "Ведьмак и беспанцуведьмы",
+				"staff": [
+					{
+						"role": "TL",
+						"nickname": "Cэйя"
+					},
+					{
+						"role": "ED",
+						"nickname": "Adelheid"
+					},
+					{
+						"role": "QC",
+						"nickname": "Харитон Харько"
+					},
+					{
+						"role": "TS",
+						"nickname": "Харитон Харько"
+					}
+				]
+			},
+			"topic_id": 0,
+			"fs_id": 9255
+		},
+		{
+			"title": "",
+			"wa_id": 0,
+			"anime_type": "none",
+			"season": "",
+			"episodes": "",
+			"color": "none",
+			"team": {
+				"title": "",
+				"staff": []
+			},
+			"topic_id": 0,
+			"fs_id": 0
+		}
+	]
+}

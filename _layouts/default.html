@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		{% include header.html %}
+	</head>
+	<body>
+		<header id="mainHeader"></header>
+		{% include nav.html %}
+		{% if page.type == "narrow" %}
+			{% include aside.html %}
+		{% endif %}
+		<div{% if page.type == "narrow" %} class="postMargin"{% endif %}>
+			{{ content }}
+		</div>
+	</body>
+</html>
